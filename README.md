@@ -1,8 +1,8 @@
-## Hi There , I'm Yosia Marcel Korhesy Simajuntak! 🙌
+## Hi There , I'm Yosia Marcel Koreshy Simajuntak! 🙌
 
 ---
 
-![Yosial Marcel Koreshy Simajuntak](<img/github-header-banner (2).png>)
+![Yosial Marcel Koreshy Simajuntak](<img/github-header-banner (4).png>)
 
 ---
 

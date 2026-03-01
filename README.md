@@ -31,8 +31,8 @@
 [![ ](https://skillicons.dev/icons?i=instagram,theme=light)](https://www.instagram.com/mcellysm/)
 
 ---
-
-###
-<img src="https://raw.githubusercontent.com/mcellysm/simpkittie/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafiandaranst123/rafiandaranst123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafiandaranst123/rafiandaranst123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafiandaranst123/rafiandaranst123/output/pacman-contribution-graph.svg">
+</picture>
